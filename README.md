@@ -1,1 +1,2 @@
-# chakras
+# jQueryPractice
+Some jQuery Practice Code
